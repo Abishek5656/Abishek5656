@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abishek5656" alt="abishek5656" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs,ExpressJs,TypeScript**
+- 🌱 I’m currently learning **ReactJS,NodeJs,ExpressJs,TypeScript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **abishekvarma8929@gmail.com**
 
